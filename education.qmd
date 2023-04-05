@@ -1,0 +1,29 @@
+---
+title: "Education"
+---
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+Modeling Mechatronics Systems
+
+Engineering Design
+
+Digital Systems Design
+
+Operating Systems
+
+Sensors and Measurements
+
+Engineering Materials
+
+Calculus, Linear Algebra, and Differential Equations
+
+Intro to Programming in C
+
+Data Structure Algorithms for Engineering Science
+
+Computer Architecture and Assembly Language
+
+Logic Circuits
+
+Probabilities and Statistics

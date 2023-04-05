@@ -1,0 +1,12 @@
+---
+title: "Evan Frackelton - Mechatronics Engineer"
+author: "Evan Frackelton"
+format: html
+editor: visual
+---
+
+![](images/eban-01.png){width="310"}
+
+Hello,
+
+My name is Evan Frackelton and my major is Mechatronics with a double minor in Mathematics and Computer Science. My major consists of a lot of laboratory work that involve engineering, computer science, system design, and a lot of mathematics. Due to all of the work that already comes with my major, I though that adding two more minors on top of that would be a good fit for my future. I plan to get my Masters in Computer and Electrical Engineering after getting a job at a company looking for the new generation of Mechatronics Engineers. Thank you for visiting my website and I hope you can get an in site to my career and future aspirations.

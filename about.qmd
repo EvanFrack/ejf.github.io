@@ -1,0 +1,7 @@
+---
+title: "About Me"
+---
+
+![](images/surfing-01.png){width="473"}
+
+I grew up and live in a small town in Orange County called Villa Park. My entire family all lives very close to one another so I am also personally close with all of them. We are a large family of more than thirty people and we all love doing things together, especially going on trips. One of my favorite things to do which is something that I don't get to do often is water sports, specifically wake surfing. Every summer we take out our family owned boat and go to the Colorado River in Arizona to stay a few days and do water sports and hangout. This has been a family tradition for more than sixty years. Currently, I go to Cal State University Channel Islands for my education in engineering, math, and computers. All my life I have loved all aspect of STEM and aspired to become a great engineer. I wanted to be able to create and fix things, and I have done that for many many years. Tinkering, fixing, and creating is something that I find exhilarating and entertaining. Having a career in the field that I am going towards becomes more exciting each day. In high school, I was part of a robotics club and class where I got my first taste of learning engineering from a course, and that lead me to pursuing Mechatronics at CSUCI. My education brought more and more ideas upon me, leading me to doing multiple projects outside of school for fun. These projects can be found in the resume tab of this website.

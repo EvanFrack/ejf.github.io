@@ -1,0 +1,29 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "My Website"
+  navbar:
+    background: "Purple"
+    left:
+      - href: index.qmd
+        text: Home
+      - about.qmd
+      - text: Resume
+        menu: 
+          - education.qmd
+          - experience.qmd
+          - progs.qmd
+          - projs.qmd
+      - href: ebay.qmd
+        text: Ebay
+
+format:
+  html:
+    theme: darkly
+    css: styles.css
+    toc: true
+
+editor: visual
+
