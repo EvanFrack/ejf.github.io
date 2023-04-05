@@ -17,7 +17,7 @@ website:
           - progs.qmd
           - projs.qmd
       - href: ebay.qmd
-        text: Ebay
+        text: eBay
 
 format:
   html:

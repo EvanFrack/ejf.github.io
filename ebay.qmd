@@ -1,8 +1,8 @@
 ---
-title: "Ebay for Repaired Electonics"
+title: "eBay for Repaired Electonics"
 ---
 
-Ebay user: evanfrack_electronicrepairs
+eBay user: evanfrack_electronicrepairs
 
 \\/See listings \\/
 
