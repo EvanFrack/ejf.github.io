@@ -6,6 +6,8 @@ title: "Projects"
 
 [**Electronics Portfolio**]{.underline}
 
+<https://drive.google.com/file/d/1yF6CaJ3IUplyI37I1DCiV3qoiRSslyQf/view?usp=sharing>
+
 ![](images/Electronics%20Portfolio%20-%20Evan%20Frackelton-02.pdf){fig-align="center" width="20cm" height="18cm"}
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
@@ -17,6 +19,8 @@ title: "Projects"
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 [**Electronics Repair Portfolio**]{.underline}
+
+<https://drive.google.com/file/d/1gDu-MovmUZAxDhRcZVl4_eCgo8TShq80/view?usp=sharing>
 
 ![](images/Electronics%20Refurbishment%20Portfolio%20-%20PDF%20version.pdf){width="20cm" height="18cm"}
 
